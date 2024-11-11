@@ -3,36 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\helpers\\paginationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\freelance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\freelance.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\views\\shared\\components\\pagination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\views\\shared\\components\\pagination\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\views\\searchpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\views\\searchpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\components\\paginationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\components\\paginationviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\controllers\\render\\searchpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\controllers\\render\\searchpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\services\\searchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\configuration\\freelancerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\configuration\\freelancerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\models\\contentmodels\\searchpagecontentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\models\\contentmodels\\searchpagecontentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\extensions\\publishedcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\extensions\\publishedcontentextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\extensions\\mediawithcropsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\extensions\\mediawithcropsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\testing\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\testing\\testclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|c:\\users\\andr\u00E9vieira\\onedrive - unipartner it services, s.a\\documentos\\umbraco-andre\\freelance\\views\\partials\\blockgrid\\components\\imagelink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DCDB9C01-AD84-463B-B1C7-5E8CCAAA325E}|Freelance\\Freelance.csproj|solutionrelative:freelance\\views\\partials\\blockgrid\\components\\imagelink.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,96 +54,150 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Freelance\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Freelance\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T17:23:09.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "Freelance\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\GlobalUsings.cs",
-              "RelativeToolTip": "Freelance\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "FreelancerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Configuration\\FreelancerConfig.cs",
+              "RelativeDocumentMoniker": "Freelance\\Configuration\\FreelancerConfig.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Configuration\\FreelancerConfig.cs",
+              "RelativeToolTip": "Freelance\\Configuration\\FreelancerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:21:39.187Z",
+              "WhenOpened": "2024-11-11T17:27:32.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Freelance",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Freelance.csproj",
-              "RelativeDocumentMoniker": "Freelance\\Freelance.csproj",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Freelance.csproj",
-              "RelativeToolTip": "Freelance\\Freelance.csproj",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-07T17:17:16.4Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "PublishedContentExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Extensions\\PublishedContentExtensions.cs",
               "RelativeDocumentMoniker": "Freelance\\Extensions\\PublishedContentExtensions.cs",
               "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Extensions\\PublishedContentExtensions.cs",
               "RelativeToolTip": "Freelance\\Extensions\\PublishedContentExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:16:25.099Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\.editorconfig",
-              "RelativeDocumentMoniker": "Freelance\\.editorconfig",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\.editorconfig",
-              "RelativeToolTip": "Freelance\\.editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-07T17:14:38.732Z",
+              "WhenOpened": "2024-11-11T17:23:07.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MediaWithCropsExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Extensions\\MediaWithCropsExtensions.cs",
-              "RelativeDocumentMoniker": "Freelance\\Extensions\\MediaWithCropsExtensions.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Extensions\\MediaWithCropsExtensions.cs",
-              "RelativeToolTip": "Freelance\\Extensions\\MediaWithCropsExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "SearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Services\\SearchService.cs",
+              "RelativeDocumentMoniker": "Freelance\\Services\\SearchService.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Services\\SearchService.cs",
+              "RelativeToolTip": "Freelance\\Services\\SearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:14:01.44Z",
+              "WhenOpened": "2024-11-11T17:29:51.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SearchPageContentModel.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Models\\ContentModels\\SearchPageContentModel.cs",
+              "RelativeDocumentMoniker": "Freelance\\Models\\ContentModels\\SearchPageContentModel.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Models\\ContentModels\\SearchPageContentModel.cs",
+              "RelativeToolTip": "Freelance\\Models\\ContentModels\\SearchPageContentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:16:19.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\appsettings.json",
+              "RelativeDocumentMoniker": "Freelance\\appsettings.json",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\appsettings.json",
+              "RelativeToolTip": "Freelance\\appsettings.json",
+              "ViewState": "AgIAABwAAAAAAAAAAAAIwDYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T17:08:12.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaginationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Helpers\\PaginationHelper.cs",
+              "RelativeDocumentMoniker": "Freelance\\Helpers\\PaginationHelper.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Helpers\\PaginationHelper.cs",
+              "RelativeToolTip": "Freelance\\Helpers\\PaginationHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:49:46.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "RelativeDocumentMoniker": "Freelance\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "RelativeToolTip": "Freelance\\Views\\Shared\\Components\\Pagination\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T16:45:08.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\SearchPage.cshtml",
+              "RelativeDocumentMoniker": "Freelance\\Views\\SearchPage.cshtml",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\SearchPage.cshtml",
+              "RelativeToolTip": "Freelance\\Views\\SearchPage.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T16:42:35.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaginationViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Components\\PaginationViewComponent.cs",
+              "RelativeDocumentMoniker": "Freelance\\Components\\PaginationViewComponent.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Components\\PaginationViewComponent.cs",
+              "RelativeToolTip": "Freelance\\Components\\PaginationViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:41:47.532Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "imageLink.cshtml",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
-              "RelativeDocumentMoniker": "Freelance\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
-              "RelativeToolTip": "Freelance\\Views\\Partials\\blockgrid\\Components\\imageLink.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T12:15:34.181Z"
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Constants.cs",
+              "RelativeDocumentMoniker": "Freelance\\Constants.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Constants.cs",
+              "RelativeToolTip": "Freelance\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:33:04.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchPageController.cs",
+              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Controllers\\Render\\SearchPageController.cs",
+              "RelativeDocumentMoniker": "Freelance\\Controllers\\Render\\SearchPageController.cs",
+              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Controllers\\Render\\SearchPageController.cs",
+              "RelativeToolTip": "Freelance\\Controllers\\Render\\SearchPageController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:02:30.262Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -140,23 +206,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TestClass.cs",
-              "DocumentMoniker": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Testing\\TestClass.cs",
-              "RelativeDocumentMoniker": "Freelance\\Testing\\TestClass.cs",
-              "ToolTip": "C:\\Users\\Andr\u00E9Vieira\\OneDrive - Unipartner IT Services, S.A\\Documentos\\Umbraco-Andre\\Freelance\\Testing\\TestClass.cs",
-              "RelativeToolTip": "Freelance\\Testing\\TestClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T17:00:52.513Z",
-              "EditorCaption": ""
             }
           ]
         }
